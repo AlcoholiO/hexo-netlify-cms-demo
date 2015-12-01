@@ -1,0 +1,5 @@
+users:
+- id: d6e67ba7-73d2-4310-b4cd-45059d724323
+  name: John
+  email: my@email.com
+  hash: $2a$10$a9fg/qmlt00haIM6Y/aKHuBl9lnKefSnj1WR8G1iCmfPBm7uK6NTG
