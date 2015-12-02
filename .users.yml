@@ -3,3 +3,7 @@ users:
   name: John
   email: my@email.com
   hash: $2a$10$a9fg/qmlt00haIM6Y/aKHuBl9lnKefSnj1WR8G1iCmfPBm7uK6NTG
+- id: 37e2adf8-4100-4a42-bcff-da3ff944996c
+  name: Johnny
+  email: abe@lort.com
+  hash: $2a$10$nOpsj65YouXh5C.ZIdG3AedsLrI8p6fp2AwcdBZubQ7SaBZDgNGwq
